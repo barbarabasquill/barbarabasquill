@@ -16,6 +16,7 @@ I leverage this GitHub profile to host my open-source marketing frameworks, prog
 - 🤝 **Channel & Field Enablement:** Aligning Product, Sales, and Channel partners to drive cohesive field execution and partner-led growth.
 - 📊 **Data-Driven Optimization:** Leveraging advanced analytics to map attribution, shorten sales cycles, and maximize campaign ROI.
 - 💵 **Sales Enablement:** Building high-impact sales enablement programs that turn complex AI, cloud, cybersecurity, and SaaS solutions into compelling buyer conversations. Aligning enablement with buyer intent, ABM strategy, funnel stage, and sales priorities to improve engagement, accelerate opportunities, strengthen pipeline, and drive revenue growth.
+- - 💙 **Customer Marketing & Advocacy:** Building lifecycle programs that accelerate onboarding, product adoption, retention, renewals, and expansion. Developing Customer Advisory Boards, advocacy pipelines, customer stories, references, reviews, and executive engagement programs that turn customer success into measurable growth.
 
 ---
 
