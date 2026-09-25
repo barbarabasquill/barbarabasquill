@@ -2,7 +2,7 @@
 # Hi, I'm Barbara Basquill 👋
 ### B2B Marketing Leader | Enterprise ABM & Demand Generation | Cybersecurity & SaaS Specialist
 
-A growth-driven and data-backed Marketing Executive with extensive experience building high-impact demand generation, Account-Based Marketing (ABM), and channel enablement programs for global technology leaders (including **Cisco**, **Red Hat-IBM**, **Forcepoint**, and **Delinea**). 
+A growth-driven and data-backed Marketing Executive with extensive experience building high-impact demand generation, Account-Based Marketing (ABM), customer marketing, and channel enablement programs for global technology leaders (including **Cisco**, **Red Hat-IBM**, **Forcepoint**, and **Delinea**). 
 
 I leverage this GitHub profile to host my open-source marketing frameworks, programmatic playbooks, and MarTech architectural workflows that bridge the gap between complex technical products and revenue-generating marketing strategies.
 
