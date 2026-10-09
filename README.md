@@ -18,6 +18,10 @@ I leverage this GitHub profile to host my open-source marketing frameworks, prog
 - 💵 **Sales Enablement:** Building high-impact sales enablement programs that turn complex AI, cloud, cybersecurity, and SaaS solutions into compelling buyer conversations. Aligning enablement with buyer intent, ABM strategy, funnel stage, and sales priorities to improve engagement, accelerate opportunities, strengthen pipeline, and drive revenue growth.
 - 💙 **Customer Marketing & Advocacy:** Building lifecycle programs that accelerate onboarding, product adoption, retention, renewals, and expansion. Developing Customer Advisory Boards, advocacy pipelines, customer stories, references, reviews, and executive engagement programs that turn customer success into measurable growth.
 
+- ### 🚀 Recent Certifications
+- https://www.linkedin.com/in/enterprisemarketing/details/certifications/
+- https://www.linkedin.com/in/enterprisemarketing/details/featured/
+
 ---
 
 ### 🛠️ MarTech & Operations Stack
